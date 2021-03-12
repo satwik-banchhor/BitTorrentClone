@@ -1,0 +1,124 @@
+vayu:
+	Number of threads: 1
+		-- Time: 2191.7811183929443
+	Number of threads: 2
+		-- Time: 1069.8533010482788
+	Number of threads: 3
+		-- Time: 701.5610065460205
+	Number of threads: 4
+		-- Time: 526.5370626449585
+	Number of threads: 5
+		-- Time: 429.0251307487488
+	Number of threads: 6
+		-- Time: 356.8062379360199
+	Number of threads: 7
+		-- Time: 325.10765290260315
+	Number of threads: 8
+		-- Time: 284.13022208213806
+	Number of threads: 9
+		-- Time: 249.89643263816833
+	Number of threads: 10
+		-- Time: 227.34631776809692
+	Number of threads: 11
+		-- Time: 206.49534964561462
+	Number of threads: 50
+		-- Time: 46.26491141319275
+	Number of threads: 100
+		-- Time: 24.217939615249634
+	Number of threads: 150
+		-- Time: 17.835376739501953
+	Number of threads: 200
+		-- Time: 14.892637014389038
+	Number of threads: 250
+		-- Time: 16.211914777755737
+	Number of threads: 300
+	-- Time: 18.43474769592285
+
+norvig:
+	Number of threads: 1
+		-- Time: 2192.608325481415
+	Number of threads: 2
+		-- Time: 1085.712120294571
+	Number of threads: 3
+		-- Time: 723.1220996379852
+	Number of threads: 4
+		-- Time: 549.946019411087
+	Number of threads: 5
+		-- Time: 444.5615997314453
+	Number of threads: 6
+		-- Time: 368.16382598876953
+	Number of threads: 7
+		-- Time: 320.7073178291321
+	Number of threads: 8
+		-- Time: 281.0367360115051
+	Number of threads: 9
+		-- Time: 245.22245025634766
+	Number of threads: 10
+		-- Time: 217.6570601463318
+	Number of threads: 11
+		-- Time: 199.29237699508667
+	Number of threads: 50
+		-- Time: 45.894299030303955
+	Number of threads: 100
+		-- Time: 24.40247941017151
+	Number of threads: 150
+		-- Time: 20.863912343978882
+	Number of threads: 200
+		-- Time: 14.363183975219727
+	Number of threads: 250
+		-- Time: 12.65441107749939
+	Number of threads: 300
+		-- Time: 15.839561462402344
+
+Combination:
+	[['vayu.iitd.ac.in', ' 1'], ['norvig.com', ' 1']]
+		-- Time: 1224.4547457695007
+		Usage: {'vayu.iitd.ac.in': 3608666, 'norvig.com': 2880000}
+	[['vayu.iitd.ac.in', ' 2'], ['norvig.com', ' 2']]
+		-- Time: 560.6021957397461
+		Usage: {'vayu.iitd.ac.in': 3300000, 'norvig.com': 3188666}
+	[['vayu.iitd.ac.in', ' 3'], ['norvig.com', ' 3']]
+		-- Time: 365.8207035064697
+		Usage: {'vayu.iitd.ac.in': 3210000, 'norvig.com': 3278666}
+	[['vayu.iitd.ac.in', ' 4'], ['norvig.com', ' 4']]
+		-- Time: 276.0684931278229
+		Usage: {'vayu.iitd.ac.in': 3300000, 'norvig.com': 3188666}
+	[['vayu.iitd.ac.in', ' 5'], ['norvig.com', ' 5']]
+		-- Time: 222.38135623931885
+		Usage: {'vayu.iitd.ac.in': 3210000, 'norvig.com': 3278666}
+	[['vayu.iitd.ac.in', ' 6'], ['norvig.com', ' 6']]
+		-- Time: 186.13335871696472
+		Usage: {'vayu.iitd.ac.in': 3308666, 'norvig.com': 3180000}
+	[['vayu.iitd.ac.in', ' 7'], ['norvig.com', ' 7']]
+		-- Time: 159.49630880355835
+		Usage: {'vayu.iitd.ac.in': 3208666, 'norvig.com': 3280000}
+	[['vayu.iitd.ac.in', ' 8'], ['norvig.com', ' 8']]
+		-- Time: 138.9086570739746
+		Usage: {'vayu.iitd.ac.in': 3280000, 'norvig.com': 3208666}
+	[['vayu.iitd.ac.in', ' 9'], ['norvig.com', ' 9']]
+		-- Time: 122.60293841362
+		Usage: {'vayu.iitd.ac.in': 3220000, 'norvig.com': 3268666}
+	[['vayu.iitd.ac.in', ' 10'], ['norvig.com', ' 10']]
+		-- Time: 110.14266324043274
+		Usage: {'vayu.iitd.ac.in': 3290000, 'norvig.com': 3198666}
+	[['vayu.iitd.ac.in', ' 11'], ['norvig.com', ' 11']]
+		-- Time: 103.71631360054016
+		Usage: {'vayu.iitd.ac.in': 3290000, 'norvig.com': 3198666}
+	[['vayu.iitd.ac.in', ' 25'], ['norvig.com', ' 25']]
+		-- Time: 46.22284007072449
+		Usage: {'vayu.iitd.ac.in': 3298666, 'norvig.com': 3190000}
+	[['vayu.iitd.ac.in', ' 50'], ['norvig.com', ' 50']]
+		-- Time: 24.281701803207397
+		Usage: {'vayu.iitd.ac.in': 3258666, 'norvig.com': 3230000}
+	[['vayu.iitd.ac.in', ' 75'], ['norvig.com', ' 75']]
+		-- Time: 18.113237142562866
+		Usage: {'vayu.iitd.ac.in': 3360000, 'norvig.com': 3128666}
+	[['vayu.iitd.ac.in', ' 100'], ['norvig.com', ' 100']]
+		-- Time: 13.915045261383057
+		Usage: {'vayu.iitd.ac.in': 3488666, 'norvig.com': 3000000}
+	[['vayu.iitd.ac.in', ' 125'], ['norvig.com', ' 125']]
+		-- Time: 12.366333723068237
+		Usage: {'vayu.iitd.ac.in': 3430000, 'norvig.com': 3058666}
+	[['vayu.iitd.ac.in', ' 150'], ['norvig.com', ' 150']]
+		-- Time: 12.578924655914307
+		Usage: {'vayu.iitd.ac.in': 3540000, 'norvig.com': 2948666}
